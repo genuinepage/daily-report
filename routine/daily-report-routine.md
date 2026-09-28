@@ -10,7 +10,7 @@
 ```
 genuinepage/daily-report 저장소에서 유튜브 일일 리포트를 만들어 메일로 보낸다. 무인 실행이니 질문하지 말고 끝까지 스스로 완료할 것. 모든 출력은 한글.
 
-1. main 브랜치 최신 상태에서 `python3 run.py` 를 실행한다. YOUTUBE_API_KEY 는 환경변수에 있다. 키 값을 출력·기록하지 않는다.
+1. 작업 디렉터리에 daily-report 저장소가 없으면 `git clone https://github.com/genuinepage/daily-report` 로 받는다. main 브랜치를 체크아웃하고 최신으로 pull 한 뒤 `python3 run.py` 를 실행한다. YOUTUBE_API_KEY 는 환경변수에 있다. 키 값을 출력·기록하지 않는다.
 2. 실행이 성공하면 data/ 와 reports/ 의 변경을 "report: {YYYY-MM-DD}" 메시지로 커밋하고 main 에 푸시한다.
 3. reports/{오늘}.html 내용을 본문으로 Gmail 커넥터 send_message 로 발송한다.
    - to: contents@genuineproduction.kr
