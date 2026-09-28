@@ -1,0 +1,18 @@
+{
+  "_설명": "verified=true 는 Metricool 연결 정보로 확인된 채널, false 는 유튜브 검색 최상위 후보(추정). enabled=false 는 수집 제외.",
+  "channels": [
+    {"name": "술의정석",     "id": "UCcXS5sElgxraBPFJ1ppSNAA", "genre": "위스키",        "verified": true,  "enabled": true},
+    {"name": "히데코",       "id": "UCyitmLMe4MRau7v70NAdJhQ", "genre": "일본 가정식",   "verified": false, "enabled": true},
+    {"name": "황형구",       "id": "UCSDupq9n-SKGx3hKDuEhcMw", "genre": "먹방",          "verified": false, "enabled": true},
+    {"name": "BPM LIVE",     "id": "UC-GLF_5PjSXBzYHOnovTfoA", "genre": "음악 라이브",   "verified": true,  "enabled": true},
+    {"name": "제뉴인뮤직",   "id": "UCo3v7wPZnsWSJXSnDCV8lYA", "genre": "음악",          "verified": true,  "enabled": true},
+    {"name": "이범준",       "id": "UCvRyyZylo9p1aknn12vqUZQ", "genre": "음악·예능",     "verified": false, "enabled": true},
+    {"name": "선여정",       "id": "UCsU2RlGgybcLzfmBqnTx-Rw", "genre": "여행",          "verified": true,  "enabled": true},
+    {"name": "데일리리릭뮤직","id": "UCjYaDRzjS0sn5PTD1tC-XVQ", "genre": "리릭비디오",    "verified": true,  "enabled": true},
+    {"name": "popcodemusic", "id": "UCd7Rc0Wqr_751qIPjgaO-OA", "genre": "음악 바이럴 쇼츠","verified": true, "enabled": true},
+    {"name": "nowsongplay",  "id": "UCa7etpNexFxpr7aKsxTdvEw", "genre": "아티스트 토크 쇼츠","verified": true,"enabled": true},
+    {"name": "hongplaymusic","id": "UCKKbuORhlEshvmmT1LBusMQ", "genre": "음악",          "verified": true,  "enabled": false},
+    {"name": "livesongmusic","id": "UCvoyINo5qHcmPpIJ_myhyIA", "genre": "음악",          "verified": true,  "enabled": false},
+    {"name": "인티플",       "id": "UCEhoSKZl5bRVQRlyzPREXeg", "genre": "음악",          "verified": true,  "enabled": false}
+  ]
+}
