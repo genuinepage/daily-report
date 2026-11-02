@@ -8,7 +8,7 @@
     {"name": "제뉴인뮤직",   "id": "UCo3v7wPZnsWSJXSnDCV8lYA", "genre": "음악",          "verified": true,  "enabled": true},
     {"name": "이범준",       "id": "UCvRyyZylo9p1aknn12vqUZQ", "genre": "음악·예능",     "verified": false, "enabled": true},
     {"name": "선여정",       "id": "UCsU2RlGgybcLzfmBqnTx-Rw", "genre": "여행",          "verified": true,  "enabled": true},
-    {"name": "데일리리릭뮤직","id": "UCjYaDRzjS0sn5PTD1tC-XVQ", "genre": "리릭비디오",    "verified": true,  "enabled": true},
+    {"name": "데일리리릭뮤직","id": "UCjYaDRzjS0sn5PTD1tC-XVQ", "genre": "리릭비디오",    "verified": true,  "enabled": false},
     {"name": "popcodemusic", "id": "UCd7Rc0Wqr_751qIPjgaO-OA", "genre": "음악 바이럴 쇼츠","verified": true, "enabled": false},
     {"name": "nowsongplay",  "id": "UCa7etpNexFxpr7aKsxTdvEw", "genre": "아티스트 토크 쇼츠","verified": true,"enabled": false},
     {"name": "hongplaymusic","id": "UCKKbuORhlEshvmmT1LBusMQ", "genre": "음악",          "verified": true,  "enabled": false},
