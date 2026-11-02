@@ -1,0 +1,2386 @@
+{
+ "collected_at": "2026-11-02T10:48:56+09:00",
+ "date": "2026-11-02",
+ "channels": {
+  "UCcXS5sElgxraBPFJ1ppSNAA": {
+   "name": "술의정석",
+   "genre": "위스키",
+   "verified": true,
+   "title": "술의정석",
+   "handle": "@sul_jeongseok",
+   "subscribers": 8940,
+   "hidden_subscribers": false,
+   "views": 2376077,
+   "video_count": 162,
+   "videos": [
+    {
+     "id": "2c39zkr3SmI",
+     "title": "생맥주, 병맥주, 캔맥주… 사실 안에 든 건 다 똑같습니다",
+     "published_at": "2026-11-01T09:00:19Z",
+     "duration_sec": 1170,
+     "views": 6946,
+     "likes": 87,
+     "comments": 19
+    },
+    {
+     "id": "wmW5TFN2dMg",
+     "title": "위스키 이름이 오두막인 이유",
+     "published_at": "2026-11-01T07:02:41Z",
+     "duration_sec": 24,
+     "views": 1390,
+     "likes": 6,
+     "comments": 0
+    },
+    {
+     "id": "8Yc7gJPGwdM",
+     "title": "돌아온 캡틴큐, 그 선장의 원조는?",
+     "published_at": "2026-10-31T06:02:33Z",
+     "duration_sec": 62,
+     "views": 2412,
+     "likes": 23,
+     "comments": 1
+    },
+    {
+     "id": "AfZyYSba70Q",
+     "title": "돌아온 캡틴큐, 소주 200원 시절엔 고급 술",
+     "published_at": "2026-10-30T11:05:23Z",
+     "duration_sec": 31,
+     "views": 2865,
+     "likes": 20,
+     "comments": 1
+    },
+    {
+     "id": "7kqxuuGqynk",
+     "title": "초희귀 위스키에 대한 30년 위스키 덕후의 생각",
+     "published_at": "2026-10-29T09:05:24Z",
+     "duration_sec": 15,
+     "views": 3376,
+     "likes": 11,
+     "comments": 2
+    },
+    {
+     "id": "8_Y7dBglP4I",
+     "title": "그래서 야마자키 언제 주시나요?",
+     "published_at": "2026-10-28T09:07:44Z",
+     "duration_sec": 57,
+     "views": 2742,
+     "likes": 17,
+     "comments": 2
+    },
+    {
+     "id": "gfYJy_M_4-I",
+     "title": "그냥 이거 사~",
+     "published_at": "2026-10-27T09:06:04Z",
+     "duration_sec": 31,
+     "views": 2694,
+     "likes": 21,
+     "comments": 2
+    },
+    {
+     "id": "_4EAyBDi_Pk",
+     "title": "요즘도 면세점에서 술 사야 이득일까?",
+     "published_at": "2026-10-26T09:06:01Z",
+     "duration_sec": 36,
+     "views": 23226,
+     "likes": 56,
+     "comments": 1
+    },
+    {
+     "id": "-4QL7YRtpC4",
+     "title": "세금을 안내도 되는 개꿀 쇼핑 구역",
+     "published_at": "2026-10-25T06:02:19Z",
+     "duration_sec": 50,
+     "views": 2303,
+     "likes": 7,
+     "comments": 0
+    },
+    {
+     "id": "7cF3mBMPZNc",
+     "title": "최초의 면세점에 최초로 들인 술,, 스카치? 버번?",
+     "published_at": "2026-10-24T06:02:31Z",
+     "duration_sec": 33,
+     "views": 4523,
+     "likes": 13,
+     "comments": 0
+    },
+    {
+     "id": "f49nE4KZUz4",
+     "title": "이날을 기억하시나요?",
+     "published_at": "2026-10-23T09:05:12Z",
+     "duration_sec": 35,
+     "views": 3693,
+     "likes": 10,
+     "comments": 0
+    },
+    {
+     "id": "1i9DuH29WZI",
+     "title": "술 담배가 유독 왜 저렴할까?",
+     "published_at": "2026-10-22T09:04:34Z",
+     "duration_sec": 51,
+     "views": 1785,
+     "likes": 14,
+     "comments": 0
+    },
+    {
+     "id": "WTPcTJi0dLM",
+     "title": "위스키 값의 90%가 세금? 면세점이 술과 담배만 싸게 파는 진짜 이유",
+     "published_at": "2026-10-21T10:00:19Z",
+     "duration_sec": 1128,
+     "views": 16871,
+     "likes": 109,
+     "comments": 11
+    },
+    {
+     "id": "r7aiyABdDl4",
+     "title": "와인 선물을 고민 중이신가요?",
+     "published_at": "2026-10-21T09:03:21Z",
+     "duration_sec": 49,
+     "views": 1528,
+     "likes": 9,
+     "comments": 0
+    },
+    {
+     "id": "yTkxmBmTOEo",
+     "title": "와인 입문할 때 선택 꿀팁",
+     "published_at": "2026-10-20T09:03:28Z",
+     "duration_sec": 36,
+     "views": 2806,
+     "likes": 11,
+     "comments": 0
+    },
+    {
+     "id": "ZSJMUvIwdnU",
+     "title": "샴페인 드실 때 한번 봐보세요",
+     "published_at": "2026-10-19T09:03:16Z",
+     "duration_sec": 20,
+     "views": 3053,
+     "likes": 14,
+     "comments": 1
+    },
+    {
+     "id": "iq4bIKO8Stc",
+     "title": "와인바에서 파는 잔술 가격은 왜 비쌀까?",
+     "published_at": "2026-10-18T09:02:59Z",
+     "duration_sec": 45,
+     "views": 5313,
+     "likes": 21,
+     "comments": 0
+    },
+    {
+     "id": "oBZSNHKxoJs",
+     "title": "내가 24년 전 찾은 보물",
+     "published_at": "2026-10-17T09:02:59Z",
+     "duration_sec": 47,
+     "views": 91969,
+     "likes": 214,
+     "comments": 28
+    },
+    {
+     "id": "MewzR_UPKQ0",
+     "title": "더 맛있으면 비싼 와인?",
+     "published_at": "2026-10-16T09:03:31Z",
+     "duration_sec": 67,
+     "views": 3258,
+     "likes": 29,
+     "comments": 0
+    },
+    {
+     "id": "0UQaJ4RxFNw",
+     "title": "데이트 가기 전 보고 가세요",
+     "published_at": "2026-10-15T09:04:28Z",
+     "duration_sec": 30,
+     "views": 5274,
+     "likes": 41,
+     "comments": 1
+    },
+    {
+     "id": "0DByf3zzSS4",
+     "title": "똥꼬(?)를 찌르세요",
+     "published_at": "2026-10-14T09:05:42Z",
+     "duration_sec": 69,
+     "views": 3256,
+     "likes": 46,
+     "comments": 1
+    },
+    {
+     "id": "z0A-_VZRpr4",
+     "title": "그럼 순전히 거품일까?",
+     "published_at": "2026-10-13T09:03:33Z",
+     "duration_sec": 49,
+     "views": 2158,
+     "likes": 18,
+     "comments": 2
+    },
+    {
+     "id": "YRvmVVYc2y0",
+     "title": "20달러 이상 와인 사는 친구는 손절해라?",
+     "published_at": "2026-10-12T09:03:36Z",
+     "duration_sec": 30,
+     "views": 4262,
+     "likes": 23,
+     "comments": 3
+    },
+    {
+     "id": "okuMAmUpKSE",
+     "title": "1만 원과 10만 원 와인, 뭐가 다를까? 비싼 와인만 찾지 않는 이유",
+     "published_at": "2026-10-11T09:00:13Z",
+     "duration_sec": 1504,
+     "views": 129173,
+     "likes": 342,
+     "comments": 44
+    },
+    {
+     "id": "LzBRswwCg4g",
+     "title": "홍어만큼 호불호 갈리는 위스키?",
+     "published_at": "2026-10-05T06:03:35Z",
+     "duration_sec": 32,
+     "views": 2303,
+     "likes": 23,
+     "comments": 2
+    }
+   ]
+  },
+  "UCyitmLMe4MRau7v70NAdJhQ": {
+   "name": "히데코",
+   "genre": "일본 가정식",
+   "verified": false,
+   "title": "일본엄마 히데코",
+   "handle": "@일본엄마히데코",
+   "subscribers": 23100,
+   "hidden_subscribers": false,
+   "views": 4060461,
+   "video_count": 273,
+   "videos": [
+    {
+     "id": "oCrf37Usa-8",
+     "title": "일본 엄마의 케첩 사용법 | 새콤하지 않은 나폴리탄 스파게티",
+     "published_at": "2026-10-31T11:09:10Z",
+     "duration_sec": 38,
+     "views": 3395,
+     "likes": 54,
+     "comments": 1
+    },
+    {
+     "id": "qsz4y3tw9xE",
+     "title": "일본 엄마의 다짐육 사용법 | 반찬 없이 한 그릇 끝나는 삼색 덮밥",
+     "published_at": "2026-10-31T05:00:07Z",
+     "duration_sec": 38,
+     "views": 5388,
+     "likes": 77,
+     "comments": 1
+    },
+    {
+     "id": "WILum_mkuOo",
+     "title": "일본 엄마의 파에야 팬 사용법 | 8명 수업에 딱 맞는 40cm",
+     "published_at": "2026-10-29T10:00:10Z",
+     "duration_sec": 38,
+     "views": 2744,
+     "likes": 32,
+     "comments": 1
+    },
+    {
+     "id": "PVS9yvT8vtg",
+     "title": "전기밥솥이면 실패 없는 오므라이스 | 히데코 레시피 (오므라이스)",
+     "published_at": "2026-10-28T09:00:09Z",
+     "duration_sec": 721,
+     "views": 96976,
+     "likes": 764,
+     "comments": 72
+    },
+    {
+     "id": "lU5j2VRmEnM",
+     "title": "일본 엄마의 닭다리살 사용법 | 배달보다 맛있는 허니 머스터드 치킨",
+     "published_at": "2026-10-28T05:00:18Z",
+     "duration_sec": 45,
+     "views": 2905,
+     "likes": 71,
+     "comments": 11
+    },
+    {
+     "id": "Jd3Zh8Vx72E",
+     "title": "일본 엄마의 무쇠팬 고르는 법 | 손잡이가 안 뜨거운 '마법의 프라이팬'",
+     "published_at": "2026-10-27T10:00:19Z",
+     "duration_sec": 52,
+     "views": 3944,
+     "likes": 57,
+     "comments": 2
+    },
+    {
+     "id": "zXyGk1lvjsU",
+     "title": "일본 엄마의 양배추 사용법 | 삼겹살 기름에 조려 밥 두 공기 뚝딱",
+     "published_at": "2026-10-26T10:00:22Z",
+     "duration_sec": 78,
+     "views": 2190,
+     "likes": 44,
+     "comments": 5
+    },
+    {
+     "id": "2UNyXUY1pFw",
+     "title": "일본 엄마의 카레 파우더 사용법 | 루 넣기 전에 맛이 정해지는 치킨 카레",
+     "published_at": "2026-10-24T05:00:04Z",
+     "duration_sec": 62,
+     "views": 8999,
+     "likes": 166,
+     "comments": 6
+    },
+    {
+     "id": "-mbyDldb9Dw",
+     "title": "일본 엄마의 낫토 사용법 | 볶으면 냄새가 부드러워지는 볶음밥",
+     "published_at": "2026-10-23T10:00:14Z",
+     "duration_sec": 60,
+     "views": 3579,
+     "likes": 78,
+     "comments": 5
+    },
+    {
+     "id": "vJeiB3uCs0E",
+     "title": "일본 엄마의 무쇠팬 사용법 | 계란 안 들러붙는 예열 순서",
+     "published_at": "2026-10-22T10:00:31Z",
+     "duration_sec": 39,
+     "views": 3602,
+     "likes": 35,
+     "comments": 3
+    },
+    {
+     "id": "0zerk6Jptvg",
+     "title": "일본 엄마의 65년 된 무쇠팬 | 프렌치 셰프 아버지에게 받은 스킬렛",
+     "published_at": "2026-10-20T10:00:07Z",
+     "duration_sec": 45,
+     "views": 6551,
+     "likes": 73,
+     "comments": 2
+    },
+    {
+     "id": "GbMVx9A8P2I",
+     "title": "일본 엄마의 달걀 사용법 | 순서 3가지로 떡지지 않는 볶음밥",
+     "published_at": "2026-10-19T10:00:09Z",
+     "duration_sec": 51,
+     "views": 12843,
+     "likes": 223,
+     "comments": 10
+    },
+    {
+     "id": "zogKMO6P-Wo",
+     "title": "요리 수업 끝나고 들르는 연희동 단골 리스트 | 히데코 나들이",
+     "published_at": "2026-10-18T03:00:01Z",
+     "duration_sec": 1204,
+     "views": 43789,
+     "likes": 278,
+     "comments": 21
+    },
+    {
+     "id": "L3nYojDl5BQ",
+     "title": "일본 엄마의 닭가슴살 사용법 | 베이컨 사이에 넣어 안 퍽퍽한 냄비 찜",
+     "published_at": "2026-10-13T10:50:57Z",
+     "duration_sec": 47,
+     "views": 2376,
+     "likes": 34,
+     "comments": 6
+    },
+    {
+     "id": "zTwlRatIipk",
+     "title": "일본 엄마의 삼겹살 사용법 | 해산물 없이 만드는 누룽지 파에야",
+     "published_at": "2026-10-10T05:59:27Z",
+     "duration_sec": 47,
+     "views": 10840,
+     "likes": 172,
+     "comments": 26
+    },
+    {
+     "id": "hwuSLgKrfjM",
+     "title": "요리연구가가 선택한 프라이팬 공개 | 히데코 주방템",
+     "published_at": "2026-10-08T03:30:24Z",
+     "duration_sec": 1210,
+     "views": 30567,
+     "likes": 198,
+     "comments": 23
+    },
+    {
+     "id": "6IZ718G22pM",
+     "title": "일본 엄마의 단호박 사용법 | 생크림 없이 오트밀크로 끓인 아침 수프",
+     "published_at": "2026-10-04T04:26:26Z",
+     "duration_sec": 47,
+     "views": 12998,
+     "likes": 156,
+     "comments": 9
+    },
+    {
+     "id": "ZMXov5x_Baw",
+     "title": "냉장고에 있는 재료로 만드는 간편한 오차츠케",
+     "published_at": "2026-10-02T22:15:18Z",
+     "duration_sec": 48,
+     "views": 3172,
+     "likes": 36,
+     "comments": 2
+    },
+    {
+     "id": "HfFxvs-B7iE",
+     "title": "5분이면 끝나는 연어 오차즈케",
+     "published_at": "2026-10-01T22:05:21Z",
+     "duration_sec": 22,
+     "views": 3471,
+     "likes": 33,
+     "comments": 0
+    },
+    {
+     "id": "JW2osZFJEVw",
+     "title": "숭늉과 똑같다고? 오차즈케의 유래",
+     "published_at": "2026-09-30T22:15:39Z",
+     "duration_sec": 52,
+     "views": 1960,
+     "likes": 18,
+     "comments": 1
+    },
+    {
+     "id": "9sPunqqhRYA",
+     "title": "요리연구가 히데코의 갓김치 활용법",
+     "published_at": "2026-09-29T22:15:39Z",
+     "duration_sec": 46,
+     "views": 1868,
+     "likes": 18,
+     "comments": 0
+    },
+    {
+     "id": "bjwkpoZZ9KI",
+     "title": "일본 엄마의 흰살생선 사용법 | 냄비 하나로 눌어붙지 않는 생선찜",
+     "published_at": "2026-09-29T12:48:45Z",
+     "duration_sec": 44,
+     "views": 6654,
+     "likes": 103,
+     "comments": 10
+    },
+    {
+     "id": "rK7_wokHir4",
+     "title": "일본인도 헷갈리는 오차즈케의 진짜 뜻",
+     "published_at": "2026-09-28T22:00:23Z",
+     "duration_sec": 23,
+     "views": 4479,
+     "likes": 28,
+     "comments": 4
+    },
+    {
+     "id": "_RnfoPivV5I",
+     "title": "일본 엄마의 제철 채소 사용법 | 소스 3가지로 완성하는 채소 찜",
+     "published_at": "2026-09-28T08:39:29Z",
+     "duration_sec": 49,
+     "views": 9685,
+     "likes": 174,
+     "comments": 37
+    },
+    {
+     "id": "CNhQuDdF3Xo",
+     "title": "일본 엄마의 바게트 사용법 | 딱딱해진 빵으로 끓이는 이탈리아 스튜",
+     "published_at": "2026-09-26T14:53:56Z",
+     "duration_sec": 40,
+     "views": 3278,
+     "likes": 32,
+     "comments": 4
+    }
+   ]
+  },
+  "UCSDupq9n-SKGx3hKDuEhcMw": {
+   "name": "황형구",
+   "genre": "먹방",
+   "verified": false,
+   "title": "황형구",
+   "handle": "@ghkdgudrn",
+   "subscribers": 593000,
+   "hidden_subscribers": false,
+   "views": 268980838,
+   "video_count": 712,
+   "videos": [
+    {
+     "id": "z6mEHaluiv0",
+     "title": "황형구의 마카롱..아니 돼지국밥과 깍두기 먹방",
+     "published_at": "2026-10-30T10:19:15Z",
+     "duration_sec": 34,
+     "views": 38482,
+     "likes": 329,
+     "comments": 8
+    },
+    {
+     "id": "EYrslRkJnJg",
+     "title": "황형구 초코케이크 우유 말먹 먹방",
+     "published_at": "2026-10-29T10:31:54Z",
+     "duration_sec": 72,
+     "views": 43955,
+     "likes": 505,
+     "comments": 40
+    },
+    {
+     "id": "B4k0j7FpzRs",
+     "title": "미치도록 단 초코케이크를 우유에 말아먹었습니다. [투썸 가나슈케이크/몰티져스/가나초콜릿/페페로로쉐/가나초콜릿/우유/프로틴]",
+     "published_at": "2026-10-28T10:39:01Z",
+     "duration_sec": 631,
+     "views": 801780,
+     "likes": 2517,
+     "comments": 483
+    },
+    {
+     "id": "UP6b25mqoTQ",
+     "title": "압도적 먹방 재능",
+     "published_at": "2026-10-27T10:15:12Z",
+     "duration_sec": 37,
+     "views": 23493,
+     "likes": 156,
+     "comments": 4
+    },
+    {
+     "id": "3_qxsvUKTOI",
+     "title": "100만 공약",
+     "published_at": "2026-10-26T11:21:51Z",
+     "duration_sec": 58,
+     "views": 32219,
+     "likes": 392,
+     "comments": 39
+    },
+    {
+     "id": "KLZ_LWPIB7Y",
+     "title": "섹시한 통닭 한마리를 통째로 잡아먹었습니다. [옛날통닭/제로콜라]",
+     "published_at": "2026-10-25T10:34:48Z",
+     "duration_sec": 685,
+     "views": 241903,
+     "likes": 1449,
+     "comments": 188
+    },
+    {
+     "id": "_EsFKmsbXNg",
+     "title": "부끄러움을 모르면 개 돼지랑 다를게 뭐가 있노",
+     "published_at": "2026-10-22T10:11:24Z",
+     "duration_sec": 89,
+     "views": 23518,
+     "likes": 408,
+     "comments": 49
+    },
+    {
+     "id": "Bh1Aax0iVt0",
+     "title": "취조실 짜장면 먹방은 제가 원조입니다. [짜장면/메이드인코리아/단무지/계란후라이1명]",
+     "published_at": "2026-10-21T12:17:45Z",
+     "duration_sec": 489,
+     "views": 221550,
+     "likes": 1240,
+     "comments": 192
+    },
+    {
+     "id": "cusJAPxvKNk",
+     "title": "과연 어떤게 진짜였을까요...?",
+     "published_at": "2026-10-19T10:07:15Z",
+     "duration_sec": 25,
+     "views": 158005,
+     "likes": 1126,
+     "comments": 181
+    },
+    {
+     "id": "a7_saURPnXk",
+     "title": "진짜 방구낀거 아닙니다.",
+     "published_at": "2026-10-18T10:53:55Z",
+     "duration_sec": 110,
+     "views": 32283,
+     "likes": 833,
+     "comments": 84
+    },
+    {
+     "id": "Cg76YSLD6WY",
+     "title": "추성훈 형님의 마초스테이크..냉정하게 리뷰해봤습니다. [마초스테이크/마초불닭야끼소바/제로콜라]",
+     "published_at": "2026-10-17T11:48:52Z",
+     "duration_sec": 1174,
+     "views": 793419,
+     "likes": 2731,
+     "comments": 380
+    },
+    {
+     "id": "wYjG0I7D1F0",
+     "title": "우리가 황정선 하나 차리자",
+     "published_at": "2026-10-16T10:07:39Z",
+     "duration_sec": 86,
+     "views": 35749,
+     "likes": 500,
+     "comments": 12
+    },
+    {
+     "id": "ZTBJCjRHeVM",
+     "title": "음...아니?",
+     "published_at": "2026-10-14T13:43:38Z",
+     "duration_sec": 57,
+     "views": 25886,
+     "likes": 308,
+     "comments": 13
+    },
+    {
+     "id": "agRBml4R2aE",
+     "title": "이제는 찹살떡에 과일 넣어먹는게 유행이라네요. [고디바 모찌/한정선/MZ/웨이팅]",
+     "published_at": "2026-10-13T11:27:22Z",
+     "duration_sec": 779,
+     "views": 685796,
+     "likes": 2339,
+     "comments": 211
+    },
+    {
+     "id": "tDq--LyF--A",
+     "title": "라떼 이니쉬",
+     "published_at": "2026-10-11T13:14:01Z",
+     "duration_sec": 69,
+     "views": 11586,
+     "likes": 135,
+     "comments": 4
+    },
+    {
+     "id": "GFDslzG55Y0",
+     "title": "대학생 팬을 만난 형구형의 진심 어린 조언",
+     "published_at": "2026-10-09T09:46:30Z",
+     "duration_sec": 64,
+     "views": 29511,
+     "likes": 384,
+     "comments": 9
+    },
+    {
+     "id": "vAj8CD4ceM4",
+     "title": "결국 대학교로 찾아갔습니다... [엄윤성 학생/상명대학교]",
+     "published_at": "2026-10-08T10:20:46Z",
+     "duration_sec": 1412,
+     "views": 445117,
+     "likes": 1732,
+     "comments": 202
+    },
+    {
+     "id": "FzV_Kutw3wg",
+     "title": "그저 남자 둘이 건전히 퇴근 후 맥주 마시는 영상입니다.",
+     "published_at": "2026-10-06T13:50:18Z",
+     "duration_sec": 143,
+     "views": 39940,
+     "likes": 384,
+     "comments": 20
+    },
+    {
+     "id": "W7Gx7Gq50SQ",
+     "title": "오늘 알바비가 대리비도 안나오겠네",
+     "published_at": "2026-10-05T10:37:39Z",
+     "duration_sec": 115,
+     "views": 94692,
+     "likes": 735,
+     "comments": 50
+    },
+    {
+     "id": "KCwMgUxW_lg",
+     "title": "퇴근 후 막창에 생맥주는 못참겠네요.생맥주 9잔 원샷 떄렸습니다  [준배막창/알바]",
+     "published_at": "2026-10-04T10:42:41Z",
+     "duration_sec": 2202,
+     "views": 244503,
+     "likes": 1102,
+     "comments": 142
+    },
+    {
+     "id": "WAV-X7d8j7s",
+     "title": "클럽 화장실 바이브",
+     "published_at": "2026-10-03T13:24:37Z",
+     "duration_sec": 78,
+     "views": 31186,
+     "likes": 516,
+     "comments": 9
+    },
+    {
+     "id": "hkcwec_I1EU",
+     "title": "황형구 새우구이x오징어짬뽕 먹방",
+     "published_at": "2026-10-02T10:38:42Z",
+     "duration_sec": 72,
+     "views": 18834,
+     "likes": 443,
+     "comments": 17
+    },
+    {
+     "id": "5UrzZlo2QH4",
+     "title": "제철 대하와 대하오징어짬뽕..소주 한잔 묵고싶은 날입니다. [새우소금구이/오징어짬뽕]",
+     "published_at": "2026-10-01T10:33:35Z",
+     "duration_sec": 895,
+     "views": 549100,
+     "likes": 1334,
+     "comments": 137
+    },
+    {
+     "id": "ZQ9n9d8c6W8",
+     "title": "???서울말이 없었던거 같은데",
+     "published_at": "2026-09-30T12:45:22Z",
+     "duration_sec": 41,
+     "views": 69109,
+     "likes": 646,
+     "comments": 35
+    },
+    {
+     "id": "NeMPQxsM288",
+     "title": "솔직하게 말씀드리겠습니다.",
+     "published_at": "2026-09-29T09:56:51Z",
+     "duration_sec": 89,
+     "views": 17213,
+     "likes": 207,
+     "comments": 18
+    }
+   ]
+  },
+  "UC-GLF_5PjSXBzYHOnovTfoA": {
+   "name": "BPM LIVE",
+   "genre": "음악 라이브",
+   "verified": true,
+   "title": "BPM Live",
+   "handle": "@bpmmusiclive",
+   "subscribers": 1140,
+   "hidden_subscribers": false,
+   "views": 169821,
+   "video_count": 141,
+   "videos": [
+    {
+     "id": "wZ9vvcSGU-E",
+     "title": "당근에 버스킹 홍보글 올렸다가 운영정책 위반 뜸ㅋㅋ #올티 #당근마켓",
+     "published_at": "2026-11-01T06:02:14Z",
+     "duration_sec": 55,
+     "views": 1281,
+     "likes": 3,
+     "comments": 1
+    },
+    {
+     "id": "2aF84rT3B94",
+     "title": "'정우성님 아니에요?' 길에서 본명 불러준 팬 (올티 본명 정우성) #올티 #게릴라콘서트",
+     "published_at": "2026-10-31T06:02:35Z",
+     "duration_sec": 41,
+     "views": 1465,
+     "likes": 3,
+     "comments": 0
+    },
+    {
+     "id": "BzSZ-MqsugE",
+     "title": "[BPM LIVE] Olltii X +lected | 올티 게릴라 콘서트",
+     "published_at": "2026-10-29T10:00:19Z",
+     "duration_sec": 4706,
+     "views": 1324,
+     "likes": 17,
+     "comments": 10
+    },
+    {
+     "id": "ALrWc180ubc",
+     "title": "길바닥에서 프리스타일 랩하면 생기는 일",
+     "published_at": "2026-10-28T10:00:35Z",
+     "duration_sec": 745,
+     "views": 2807,
+     "likes": 22,
+     "comments": 13
+    },
+    {
+     "id": "3QLlmtYhFKw",
+     "title": "[BPM LIKES] EP.19 Jeon Jisun | Flare (KR/EN/JP/CN)",
+     "published_at": "2026-10-20T11:01:59Z",
+     "duration_sec": 213,
+     "views": 618,
+     "likes": 25,
+     "comments": 8
+    },
+    {
+     "id": "W8yeIqaj4X8",
+     "title": "[BPM LIKES] EP.18 Ksher | On Your Face",
+     "published_at": "2026-10-09T10:04:22Z",
+     "duration_sec": 29,
+     "views": 1380,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "S2dHi2jjLaw",
+     "title": "[BPM LIKES] EP.18 Ksher | On Your Face (KR/EN/JP/CN)",
+     "published_at": "2026-10-09T10:00:32Z",
+     "duration_sec": 181,
+     "views": 161,
+     "likes": 8,
+     "comments": 1
+    },
+    {
+     "id": "ufIVDz0iDys",
+     "title": "[BPM MIX] Lee Hashin (이하신) | EP.04 | bigbeat / metal / elecktronic DJ Set",
+     "published_at": "2026-10-05T10:56:54Z",
+     "duration_sec": 48,
+     "views": 761,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "FdklAdZdWxE",
+     "title": "[BPM LIKES] EP.17 미담 | 버스킹",
+     "published_at": "2026-09-30T10:04:05Z",
+     "duration_sec": 31,
+     "views": 1482,
+     "likes": 15,
+     "comments": 0
+    },
+    {
+     "id": "ZEvnCm-DKeQ",
+     "title": "[BPM MIX] Lee Hashin (이하신) | EP.04 | bigbeat / metal / elecktronic DJ Set",
+     "published_at": "2026-09-29T11:03:31Z",
+     "duration_sec": 39,
+     "views": 1419,
+     "likes": 6,
+     "comments": 0
+    },
+    {
+     "id": "mrbQx4FZ4HM",
+     "title": "[BPM MIX] leehashin (이하신) | EP.04 | bigbeat / metal / elecktronic DJ Set",
+     "published_at": "2026-09-29T11:00:28Z",
+     "duration_sec": 3742,
+     "views": 159,
+     "likes": 10,
+     "comments": 1
+    },
+    {
+     "id": "JlkPN_l33jo",
+     "title": "[BPM LIKES] EP.16 CuRvY | 2 u who hated me (KR/EN/JP/CN)",
+     "published_at": "2026-09-28T10:03:35Z",
+     "duration_sec": 28,
+     "views": 1262,
+     "likes": 11,
+     "comments": 0
+    },
+    {
+     "id": "W4_SpqOZlvk",
+     "title": "[BPM LIKES] EP.17 미담 | 버스킹",
+     "published_at": "2026-09-23T10:03:52Z",
+     "duration_sec": 48,
+     "views": 1298,
+     "likes": 5,
+     "comments": 0
+    },
+    {
+     "id": "eds_IKPbg2A",
+     "title": "[BPM LIKES] EP.17 미담 | 버스킹 (KR/EN/JP/CN)",
+     "published_at": "2026-09-23T10:02:07Z",
+     "duration_sec": 186,
+     "views": 579,
+     "likes": 24,
+     "comments": 10
+    },
+    {
+     "id": "CpZ8ZBSSENM",
+     "title": "[BPM MIX] ILLSUNG (일성) | EP.03 | Hip-Hop & R&B DJ Set",
+     "published_at": "2026-09-21T10:03:28Z",
+     "duration_sec": 48,
+     "views": 371,
+     "likes": 2,
+     "comments": 1
+    },
+    {
+     "id": "j1dEorVI6So",
+     "title": "[BPM MIX] ILLSUNG (일성) | EP.03 | Hip-Hop & R&B DJ Set",
+     "published_at": "2026-09-21T10:00:29Z",
+     "duration_sec": 3749,
+     "views": 829,
+     "likes": 19,
+     "comments": 8
+    },
+    {
+     "id": "9Ku3hFLliPM",
+     "title": "[BPM LIKES] EP.16 CuRvY | 2 u who hated me (KR/EN/JP/CN)",
+     "published_at": "2026-09-20T10:03:50Z",
+     "duration_sec": 60,
+     "views": 1259,
+     "likes": 9,
+     "comments": 0
+    },
+    {
+     "id": "50KywzxTOdg",
+     "title": "[BPM LIKES] EP.16 CuRvY | 2 u who hated me",
+     "published_at": "2026-09-19T10:00:10Z",
+     "duration_sec": 186,
+     "views": 574,
+     "likes": 17,
+     "comments": 7
+    },
+    {
+     "id": "6s4hKSLYw3g",
+     "title": "Horim band (호림밴드) - Smile again | [BPM LIVE] EP.10 #Shorts",
+     "published_at": "2026-09-19T03:02:02Z",
+     "duration_sec": 59,
+     "views": 1065,
+     "likes": 8,
+     "comments": 4
+    },
+    {
+     "id": "-Kz5y1H1OTg",
+     "title": "Horim band (호림밴드) - Bad jazz | [BPM LIVE] EP.10 #Shorts",
+     "published_at": "2026-09-18T09:03:46Z",
+     "duration_sec": 59,
+     "views": 1227,
+     "likes": 16,
+     "comments": 1
+    },
+    {
+     "id": "CROGjcg3fF8",
+     "title": "범키 - Freewill | [BPM LIKES] EP.15 #Shorts",
+     "published_at": "2026-09-16T10:04:25Z",
+     "duration_sec": 48,
+     "views": 1006,
+     "likes": 5,
+     "comments": 0
+    },
+    {
+     "id": "5YX8tCNw_5Q",
+     "title": "[BPM LIKES] EP.15 범키 | Freewill",
+     "published_at": "2026-09-16T10:00:03Z",
+     "duration_sec": 119,
+     "views": 832,
+     "likes": 18,
+     "comments": 8
+    },
+    {
+     "id": "Eaj4GMiV7Sc",
+     "title": "B JYUN. (비젼) - BREEZE. | [BPM LIKES] EP.14 #Shorts",
+     "published_at": "2026-09-13T03:00:26Z",
+     "duration_sec": 60,
+     "views": 1007,
+     "likes": 5,
+     "comments": 1
+    },
+    {
+     "id": "qWrJZkr9N_w",
+     "title": "[BPM LIVE] EP.10 Horim band (호림밴드)",
+     "published_at": "2026-09-12T09:02:40Z",
+     "duration_sec": 60,
+     "views": 944,
+     "likes": 12,
+     "comments": 1
+    },
+    {
+     "id": "ZVeOxcmKWZc",
+     "title": "[BPM LIKES] EP.14  B JYUN. (비젼) | NOTHIN' SPECIAL. , BREEZE.",
+     "published_at": "2026-09-09T10:00:27Z",
+     "duration_sec": 251,
+     "views": 428,
+     "likes": 17,
+     "comments": 5
+    }
+   ]
+  },
+  "UCo3v7wPZnsWSJXSnDCV8lYA": {
+   "name": "제뉴인뮤직",
+   "genre": "음악",
+   "verified": true,
+   "title": "제뉴인뮤직 - GENUINE MUSIC",
+   "handle": "@genuinemusic93",
+   "subscribers": 10500,
+   "hidden_subscribers": false,
+   "views": 382879,
+   "video_count": 139,
+   "videos": [
+    {
+     "id": "6vQmOdU8w3k",
+     "title": "Ksher (케셔) PLAYLIST | Sound of Silence, Hour, Overdose, Trauma",
+     "published_at": "2026-06-03T09:00:22Z",
+     "duration_sec": 1140,
+     "views": 634,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "c97pm2I75EU",
+     "title": "Hour - Ksher (케셔) | Live:View",
+     "published_at": "2026-04-29T09:01:33Z",
+     "duration_sec": 206,
+     "views": 10842,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "T4o2V1T2ahU",
+     "title": "먼지 - hartts (하츠) | Live:View",
+     "published_at": "2026-03-27T10:30:14Z",
+     "duration_sec": 203,
+     "views": 9641,
+     "likes": null,
+     "comments": 8
+    },
+    {
+     "id": "rThv9SF7ktk",
+     "title": "줍에이(Joob A) - 생각이 나버렸어 🎵",
+     "published_at": "2026-03-26T09:01:12Z",
+     "duration_sec": 38,
+     "views": 228,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "iOs7DGiW35o",
+     "title": "이범준 - 너에게 난 어떤 존재야 🎵",
+     "published_at": "2026-03-25T09:01:04Z",
+     "duration_sec": 49,
+     "views": 260,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "8lf6wvINGIE",
+     "title": "줍에이(Joob A) - 주르륵 (feat. OoOo) 🎵",
+     "published_at": "2026-03-24T09:00:14Z",
+     "duration_sec": 37,
+     "views": 159,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "nqFdvMO8_Ek",
+     "title": "이범준 - 비와 너와 나 🎵",
+     "published_at": "2026-03-22T09:01:04Z",
+     "duration_sec": 22,
+     "views": 200,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "_njubkoTiiY",
+     "title": "RYUL - Oxygen 🎵",
+     "published_at": "2026-03-21T09:00:51Z",
+     "duration_sec": 44,
+     "views": 151,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "DCEuDR5R3Ns",
+     "title": "줍에이(Joob A) - 생각이 나버렸어 🎵",
+     "published_at": "2026-03-20T09:00:17Z",
+     "duration_sec": 38,
+     "views": 181,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "rCeNC8VBlt8",
+     "title": "안재우 - 어디까지 (Prod. Inf) 🎵",
+     "published_at": "2026-03-19T09:01:26Z",
+     "duration_sec": 22,
+     "views": 43,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "8PAE8Sf_HyA",
+     "title": "히읗(hieut) - 우주로 가고 싶었지 🎵",
+     "published_at": "2026-03-19T09:00:14Z",
+     "duration_sec": 43,
+     "views": 235,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "l3bG4UF9YNI",
+     "title": "이범준 - 시간은 나를 기다려주지 않아서 그때의 나에게 🎵",
+     "published_at": "2026-03-18T09:01:07Z",
+     "duration_sec": 40,
+     "views": 312,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "AUBVAkTsp1w",
+     "title": "줍에이(Joob A) - 봄 🎵",
+     "published_at": "2026-03-17T11:00:26Z",
+     "duration_sec": 36,
+     "views": 209,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "4Y_yP_DxnrM",
+     "title": "수연이 - Lonely 🎵",
+     "published_at": "2026-03-15T09:00:06Z",
+     "duration_sec": 46,
+     "views": 94,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "PtLGgDl0PNo",
+     "title": "히읗(hieut) - 5 minutes star 🎵",
+     "published_at": "2026-03-14T09:00:28Z",
+     "duration_sec": 25,
+     "views": 114,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "H0WY-XX7gk8",
+     "title": "오르내림(OLNL) - Bed 🎵",
+     "published_at": "2026-03-13T09:00:24Z",
+     "duration_sec": 41,
+     "views": 148,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "_8FG425mazk",
+     "title": "줍에이(Joob A) - 반복 (repeat) 🎵",
+     "published_at": "2026-03-12T09:00:54Z",
+     "duration_sec": 46,
+     "views": 727,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "Ax6voqxYpYQ",
+     "title": "안재우 - 꽃 🎵",
+     "published_at": "2026-03-11T09:00:14Z",
+     "duration_sec": 46,
+     "views": 155,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "Q4fuUp0HDdE",
+     "title": "이범준 - 이별과 이별하는 법 🎵",
+     "published_at": "2026-03-10T09:00:44Z",
+     "duration_sec": 50,
+     "views": 127,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "eG1qetzlxdM",
+     "title": "RYUL - On The Rocks (Feat. 문수진 (Moon Sujin)) 🎵",
+     "published_at": "2026-03-09T09:01:02Z",
+     "duration_sec": 38,
+     "views": 163,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "Ug5SKOdo6Vk",
+     "title": "이범준 - 늘 사랑받을 너에게 🎵",
+     "published_at": "2026-03-05T09:00:42Z",
+     "duration_sec": 20,
+     "views": 237,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "SE3MaAFQYR8",
+     "title": "수연이 - BLUE 🎵",
+     "published_at": "2026-03-04T09:00:38Z",
+     "duration_sec": 31,
+     "views": 185,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "imE1GVv8YVU",
+     "title": "YEOHO & B JYUN - 가위바위보 🎵",
+     "published_at": "2026-03-03T09:00:59Z",
+     "duration_sec": 31,
+     "views": 2133,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "oxw52M89XQ0",
+     "title": "률(RYUL) - W 🎵",
+     "published_at": "2026-03-02T09:01:05Z",
+     "duration_sec": 49,
+     "views": 170,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "yQ_4GDU2bvM",
+     "title": "안재우 - 지저분한 방 🎵",
+     "published_at": "2026-03-01T09:01:15Z",
+     "duration_sec": 27,
+     "views": 13,
+     "likes": null,
+     "comments": 0
+    }
+   ]
+  },
+  "UCvRyyZylo9p1aknn12vqUZQ": {
+   "name": "이범준",
+   "genre": "음악·예능",
+   "verified": false,
+   "title": "이범준",
+   "handle": "@leebumjun",
+   "subscribers": 76200,
+   "hidden_subscribers": false,
+   "views": 14037177,
+   "video_count": 42,
+   "videos": [
+    {
+     "id": "2bWKheCG1UQ",
+     "title": "사실 저는 한 잔 마시면 말도 제대로 못해요",
+     "published_at": "2026-09-04T09:44:17Z",
+     "duration_sec": 58,
+     "views": 8111,
+     "likes": 241,
+     "comments": 14
+    },
+    {
+     "id": "u77qje--kTw",
+     "title": "음치인 척 했던 사람들한테 자작곡 불러주기",
+     "published_at": "2026-08-29T12:25:14Z",
+     "duration_sec": 63,
+     "views": 53784,
+     "likes": 1577,
+     "comments": 53
+    },
+    {
+     "id": "0i92LEWfEq0",
+     "title": "목이 너무 아파요",
+     "published_at": "2026-08-21T09:35:09Z",
+     "duration_sec": 35,
+     "views": 14410,
+     "likes": 375,
+     "comments": 19
+    },
+    {
+     "id": "_ztKxZHB_I0",
+     "title": "노래자랑에서 자작곡을 부른다면",
+     "published_at": "2026-08-14T09:33:57Z",
+     "duration_sec": 59,
+     "views": 245443,
+     "likes": 4102,
+     "comments": 62
+    },
+    {
+     "id": "RS7QAadmzEg",
+     "title": "노래자랑 도전",
+     "published_at": "2026-08-09T10:10:45Z",
+     "duration_sec": 53,
+     "views": 506044,
+     "likes": 6106,
+     "comments": 71
+    },
+    {
+     "id": "pEUW4Nby6zM",
+     "title": "저는 다음주에 보러가니까 스포 ㄴㄴ",
+     "published_at": "2026-08-06T09:00:36Z",
+     "duration_sec": 26,
+     "views": 47367,
+     "likes": 932,
+     "comments": 42
+    },
+    {
+     "id": "jxkf4YQjSCU",
+     "title": "'발라드진심남'을 만났습니다..",
+     "published_at": "2026-07-27T09:24:21Z",
+     "duration_sec": 38,
+     "views": 31326,
+     "likes": 622,
+     "comments": 11
+    },
+    {
+     "id": "3QdjY0Atql8",
+     "title": "저스틴 ~~~~~~~",
+     "published_at": "2026-07-23T09:00:31Z",
+     "duration_sec": 34,
+     "views": 22947,
+     "likes": 415,
+     "comments": 8
+    },
+    {
+     "id": "DJ5F8bCeqV4",
+     "title": "일본인들 앞에서 부르는 제이팝",
+     "published_at": "2026-07-10T13:02:46Z",
+     "duration_sec": 52,
+     "views": 31457,
+     "likes": 623,
+     "comments": 21
+    },
+    {
+     "id": "wHvH6BeQlKw",
+     "title": "모르는 사람한테 음치인 척하기",
+     "published_at": "2026-05-27T08:14:18Z",
+     "duration_sec": 46,
+     "views": 30896,
+     "likes": 601,
+     "comments": 32
+    },
+    {
+     "id": "gEsNlJ6zKvQ",
+     "title": "처음 본 사람이랑 즉석 듀엣하기 @mit_zu0",
+     "published_at": "2026-05-24T08:59:04Z",
+     "duration_sec": 49,
+     "views": 41966,
+     "likes": 1224,
+     "comments": 60
+    },
+    {
+     "id": "Bvh4cYIixb8",
+     "title": "모르는 사람한테 음치인 척하기",
+     "published_at": "2026-05-21T09:59:03Z",
+     "duration_sec": 44,
+     "views": 60788,
+     "likes": 1385,
+     "comments": 39
+    },
+    {
+     "id": "IZizoUTQv0U",
+     "title": "즉석으로 만든 자작곡",
+     "published_at": "2026-05-08T10:09:18Z",
+     "duration_sec": 22,
+     "views": 30675,
+     "likes": 673,
+     "comments": 54
+    },
+    {
+     "id": "5KDgLH1z3yc",
+     "title": "머릿속을 지배해버린 강남스타일 버전",
+     "published_at": "2026-04-28T09:31:33Z",
+     "duration_sec": 49,
+     "views": 171194,
+     "likes": 3664,
+     "comments": 65
+    },
+    {
+     "id": "pz0L18fejHk",
+     "title": "어제 헤어진 사람한테 노래로 위로해주기",
+     "published_at": "2026-04-13T09:01:17Z",
+     "duration_sec": 57,
+     "views": 37789,
+     "likes": 741,
+     "comments": 68
+    },
+    {
+     "id": "i9IaYLMiry0",
+     "title": "신청곡을 받았는데 내가 원곡자일 때",
+     "published_at": "2026-03-22T11:31:35Z",
+     "duration_sec": 42,
+     "views": 95939,
+     "likes": 1568,
+     "comments": 60
+    },
+    {
+     "id": "9D5nNlxujgI",
+     "title": "노래 원곡자한테 초딩 음치인 척하기",
+     "published_at": "2026-03-15T11:00:29Z",
+     "duration_sec": 48,
+     "views": 1581271,
+     "likes": 17218,
+     "comments": 175
+    },
+    {
+     "id": "QUl3n-o7USg",
+     "title": "쇼미12 화제의 김진짜 벌스",
+     "published_at": "2026-03-12T10:57:12Z",
+     "duration_sec": 35,
+     "views": 237662,
+     "likes": 3210,
+     "comments": 103
+    },
+    {
+     "id": "g-UR_qgwOKM",
+     "title": "초딩인 척하고 노래 평가 받기",
+     "published_at": "2026-03-06T12:16:15Z",
+     "duration_sec": 59,
+     "views": 653958,
+     "likes": 9526,
+     "comments": 192
+    },
+    {
+     "id": "N0nRoJWOkH4",
+     "title": "모르는 여성분에게 노래로 플러팅하기",
+     "published_at": "2026-03-01T12:17:13Z",
+     "duration_sec": 40,
+     "views": 151324,
+     "likes": 2945,
+     "comments": 112
+    },
+    {
+     "id": "8E8WFVt3V3k",
+     "title": "테무 마이크로 음치인 척하기",
+     "published_at": "2026-02-22T11:32:23Z",
+     "duration_sec": 57,
+     "views": 1868349,
+     "likes": 22745,
+     "comments": 526
+    },
+    {
+     "id": "oYdIWAY4FIY",
+     "title": "게임 속에서 갑자기 버스킹 했을 때 반응",
+     "published_at": "2026-02-16T09:52:41Z",
+     "duration_sec": 37,
+     "views": 309944,
+     "likes": 4628,
+     "comments": 162
+    },
+    {
+     "id": "55p5rAPtIYw",
+     "title": "음치인 척하고 노래 평가 받기",
+     "published_at": "2026-02-12T12:31:45Z",
+     "duration_sec": 45,
+     "views": 2439578,
+     "likes": 26323,
+     "comments": 565
+    },
+    {
+     "id": "r9RflEXp1-s",
+     "title": "일본인에게 제이팝 불러주기",
+     "published_at": "2026-02-09T09:05:25Z",
+     "duration_sec": 53,
+     "views": 284296,
+     "likes": 4856,
+     "comments": 135
+    },
+    {
+     "id": "z-Gip69KztM",
+     "title": "게임 속에서 '체인소맨 OST' 불렀을 때 반응",
+     "published_at": "2026-02-07T10:28:43Z",
+     "duration_sec": 54,
+     "views": 1056527,
+     "likes": 11412,
+     "comments": 238
+    }
+   ]
+  },
+  "UCsU2RlGgybcLzfmBqnTx-Rw": {
+   "name": "선여정",
+   "genre": "여행",
+   "verified": true,
+   "title": "선여정",
+   "handle": "@yj_gogo_yj",
+   "subscribers": 557000,
+   "hidden_subscribers": false,
+   "views": 65141703,
+   "video_count": 462,
+   "videos": [
+    {
+     "id": "TMDZklLYH-g",
+     "title": "지금 당장 사랑하는 사람에게 전화하세요",
+     "published_at": "2026-11-01T10:00:17Z",
+     "duration_sec": 56,
+     "views": 1416,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "Q8pULV4x7mE",
+     "title": "레전드 책임감 없는 작명소",
+     "published_at": "2026-10-30T10:00:21Z",
+     "duration_sec": 53,
+     "views": 4760,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "nO4GEfhIuEs",
+     "title": "효년과 효녀 그 사이 어딘가 #썰",
+     "published_at": "2026-10-28T10:00:31Z",
+     "duration_sec": 62,
+     "views": 13640,
+     "likes": null,
+     "comments": 2
+    },
+    {
+     "id": "mx5jmvHNn3o",
+     "title": "손녀가 할머니에게 저지른 만행 #썰",
+     "published_at": "2026-10-26T10:00:07Z",
+     "duration_sec": 38,
+     "views": 1784,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "jHxmu6XIhw0",
+     "title": "어릴 때 할머니께 저지른 만행 썰 [ 죠리퐁 말먹 ]",
+     "published_at": "2026-10-25T04:00:13Z",
+     "duration_sec": 488,
+     "views": 10268,
+     "likes": null,
+     "comments": 17
+    },
+    {
+     "id": "bnnPCA-Of6A",
+     "title": "공감성 수치 #썰 #흑역사",
+     "published_at": "2026-10-24T10:00:29Z",
+     "duration_sec": 59,
+     "views": 8082,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "7v2cJo1mzes",
+     "title": "첫사랑은 원래 다 이런 거 아니겠어?ㅋ #썰 #첫사랑",
+     "published_at": "2026-10-23T10:00:31Z",
+     "duration_sec": 53,
+     "views": 3770,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "XnJAHzX6jW0",
+     "title": "위험한 오타쿠 특 #썰 #첫사랑 #오타쿠",
+     "published_at": "2026-10-22T10:00:02Z",
+     "duration_sec": 43,
+     "views": 3989,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "ndTofzIg9tg",
+     "title": "⚠️ 도파민 과다·정신없음 주의",
+     "published_at": "2026-10-21T10:00:11Z",
+     "duration_sec": 65,
+     "views": 1547,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "ZZEZOvuTi5Q",
+     "title": "그 시절, 순수했던 여정이의 첫사랑  #썰 #첫사랑",
+     "published_at": "2026-10-20T10:00:05Z",
+     "duration_sec": 81,
+     "views": 3842,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "t2WcaYXn-Lg",
+     "title": "당신의 최애는 누구인가요?",
+     "published_at": "2026-10-19T10:00:12Z",
+     "duration_sec": 23,
+     "views": 11042,
+     "likes": null,
+     "comments": 4
+    },
+    {
+     "id": "CrtLkNxNa8o",
+     "title": "뜨겁고도 아팠던 나의 첫사랑 썰",
+     "published_at": "2026-10-18T04:00:21Z",
+     "duration_sec": 451,
+     "views": 19116,
+     "likes": null,
+     "comments": 19
+    },
+    {
+     "id": "4DimrZs6nKc",
+     "title": "너도 내가 외계인 같아 보여?  #썰 #첫사랑",
+     "published_at": "2026-10-17T10:00:01Z",
+     "duration_sec": 122,
+     "views": 3105,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "8SOJlOY-11U",
+     "title": "⚠️ 사회초년생들 필수 시청",
+     "published_at": "2026-10-16T10:00:28Z",
+     "duration_sec": 39,
+     "views": 9369,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "04TGiDVCHOU",
+     "title": "나의 첫 명품가방...^^",
+     "published_at": "2026-10-15T10:00:11Z",
+     "duration_sec": 47,
+     "views": 14447,
+     "likes": null,
+     "comments": 2
+    },
+    {
+     "id": "7w3RZ5lkl8k",
+     "title": "현실판 '꽃보다 남자' 찍고 온 썰(?)",
+     "published_at": "2026-10-14T10:00:17Z",
+     "duration_sec": 60,
+     "views": 6441,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "L5e6P1oNYjE",
+     "title": "썸남한테 외계인 취급받고 차인 썰👽  [ 국물무뼈닭발 ]",
+     "published_at": "2026-10-13T10:00:32Z",
+     "duration_sec": 122,
+     "views": 15687,
+     "likes": null,
+     "comments": 23
+    },
+    {
+     "id": "6t7y_y1Tiu8",
+     "title": "내 인생 첫 비즈니스 비행기",
+     "published_at": "2026-10-13T10:00:10Z",
+     "duration_sec": 34,
+     "views": 5530,
+     "likes": null,
+     "comments": 1
+    },
+    {
+     "id": "I4ltxI_NgAs",
+     "title": "??? : 아줌마 잘 먹지...? #먹방",
+     "published_at": "2026-10-12T10:00:29Z",
+     "duration_sec": 43,
+     "views": 5021,
+     "likes": null,
+     "comments": 4
+    },
+    {
+     "id": "x6R9hMJFRvM",
+     "title": "여러분 사람을 너무 믿진 마세요",
+     "published_at": "2026-10-11T10:00:18Z",
+     "duration_sec": 78,
+     "views": 8609,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "0Oj2SN2xCIc",
+     "title": "페북스타 시절 만난 허언증 금수저에게 사기당한 썰 [ 싸르보나라 ]",
+     "published_at": "2026-10-10T09:00:02Z",
+     "duration_sec": 633,
+     "views": 26338,
+     "likes": null,
+     "comments": 26
+    },
+    {
+     "id": "WH7DO3HGRF0",
+     "title": "빌런 특) 자기가 빌런인 줄 모름",
+     "published_at": "2026-10-06T10:00:32Z",
+     "duration_sec": 32,
+     "views": 4210,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "CnrPWoId-2s",
+     "title": "축구 감독의 꿈을 키우게 된 계기",
+     "published_at": "2026-10-05T10:00:17Z",
+     "duration_sec": 28,
+     "views": 5871,
+     "likes": null,
+     "comments": 2
+    },
+    {
+     "id": "HbUlBrlQE8U",
+     "title": "그냥 사이좋게 지내면 안 돼?",
+     "published_at": "2026-10-04T10:00:15Z",
+     "duration_sec": 43,
+     "views": 3949,
+     "likes": null,
+     "comments": 0
+    },
+    {
+     "id": "DeNRuFp8QWU",
+     "title": "메시, 호날두 보러 왔는데요? #축구 #k리그",
+     "published_at": "2026-10-03T10:00:04Z",
+     "duration_sec": 17,
+     "views": 2974,
+     "likes": null,
+     "comments": 0
+    }
+   ]
+  },
+  "UCjYaDRzjS0sn5PTD1tC-XVQ": {
+   "name": "데일리리릭뮤직",
+   "genre": "리릭비디오",
+   "verified": true,
+   "title": "데일리뮤직",
+   "handle": "@dailyricmusic",
+   "subscribers": 14,
+   "hidden_subscribers": false,
+   "views": 14285,
+   "video_count": 79,
+   "videos": [
+    {
+     "id": "BTC3Wg8GnW4",
+     "title": "트웰브 - Pinot Noir (가사 / Lyrics)",
+     "published_at": "2026-10-30T01:02:17Z",
+     "duration_sec": 48,
+     "views": 4,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "IaCag-ZU4C4",
+     "title": "이루리 - Dive (가사 / Lyrics)",
+     "published_at": "2026-10-29T01:02:08Z",
+     "duration_sec": 223,
+     "views": 186,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "9pQOqOIkmb0",
+     "title": "안재우 - 꽃 (Prod. Inf) (가사 / Lyrics)",
+     "published_at": "2026-10-28T01:03:04Z",
+     "duration_sec": 52,
+     "views": 32,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "rHJKII-iFGU",
+     "title": "트웰브 - Rendezvous (feat. Horim, Godi) (가사 / Lyrics)",
+     "published_at": "2026-10-27T01:02:17Z",
+     "duration_sec": 201,
+     "views": 24,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "17g-YuzDI7w",
+     "title": "밍기뉴 - 나랑 도망가자 (가사 / Lyrics)",
+     "published_at": "2026-10-26T01:02:15Z",
+     "duration_sec": 30,
+     "views": 3,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "Y0zRmoBltzg",
+     "title": "안재우 - 어디까지 (Prod. Inf) (가사 / Lyrics)",
+     "published_at": "2026-10-25T01:02:22Z",
+     "duration_sec": 149,
+     "views": 237,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "Aswjki0s0EA",
+     "title": "차붐 - Aoi Sola (가사 / Lyrics)",
+     "published_at": "2026-10-24T01:02:18Z",
+     "duration_sec": 40,
+     "views": 30,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "66qXTjJfnog",
+     "title": "밍기뉴 - 나랑 도망가자 (가사 / Lyrics)",
+     "published_at": "2026-10-23T01:02:07Z",
+     "duration_sec": 113,
+     "views": 69,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "IZMxMkWiD-Q",
+     "title": "이범준 - 기억을 건너 (가사 / Lyrics)",
+     "published_at": "2026-10-22T01:02:22Z",
+     "duration_sec": 38,
+     "views": 5,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "lTPQBgxlSeM",
+     "title": "차붐 - Aoi Sola (가사 / Lyrics)",
+     "published_at": "2026-10-21T01:02:08Z",
+     "duration_sec": 242,
+     "views": 9,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "LHGKkO5GDQ0",
+     "title": "수연이 - Selfish (가사 / Lyrics)",
+     "published_at": "2026-10-20T01:02:02Z",
+     "duration_sec": 49,
+     "views": 11,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "OuKriMFSZ_A",
+     "title": "이루리 - Digital Killer (가사 / Lyrics)",
+     "published_at": "2026-10-19T01:02:02Z",
+     "duration_sec": 224,
+     "views": 15,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "WkmuM1CmlcA",
+     "title": "기영균 - GO DONG (가사 / Lyrics)",
+     "published_at": "2026-10-18T01:02:51Z",
+     "duration_sec": 28,
+     "views": 6,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "lEks0oPyBl8",
+     "title": "트웰브 - Pinot Noir (가사 / Lyrics)",
+     "published_at": "2026-10-17T01:02:01Z",
+     "duration_sec": 202,
+     "views": 35,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "-QwJK0YCCCI",
+     "title": "VINCI - Miles away (가사 / Lyrics)",
+     "published_at": "2026-10-16T01:02:41Z",
+     "duration_sec": 45,
+     "views": 3,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "f3d1qVNr28c",
+     "title": "안재우 - 꽃 (Prod. Inf) (가사 / Lyrics)",
+     "published_at": "2026-10-15T01:02:20Z",
+     "duration_sec": 198,
+     "views": 209,
+     "likes": 3,
+     "comments": 0
+    },
+    {
+     "id": "8Y38lnU5fp8",
+     "title": "iru - 1.2.3.4.lv (가사 / Lyrics)",
+     "published_at": "2026-10-14T01:02:22Z",
+     "duration_sec": 51,
+     "views": 12,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "5gKMFQBwydQ",
+     "title": "밍기뉴 - 개화 (가사 / Lyrics)",
+     "published_at": "2026-10-13T01:02:02Z",
+     "duration_sec": 111,
+     "views": 783,
+     "likes": 6,
+     "comments": 0
+    },
+    {
+     "id": "CDs4zxVelSw",
+     "title": "줍에이 - 주르륵 (feat. OoOo) (가사 / Lyrics)",
+     "published_at": "2026-10-12T09:02:23Z",
+     "duration_sec": 220,
+     "views": 286,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "ZrKplXSaS_g",
+     "title": "Ksher 케셔 - I won't let you go (가사 / Lyrics)",
+     "published_at": "2026-10-12T01:02:10Z",
+     "duration_sec": 48,
+     "views": 110,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "FYtjQ8F5_RM",
+     "title": "바늘 - SNOOZE (feat.HYUN SEO) (Winter Ver.) (가사 / Lyrics)",
+     "published_at": "2026-10-11T09:02:25Z",
+     "duration_sec": 39,
+     "views": 89,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "ytN8g8t2V2I",
+     "title": "굿나잇스탠드 - 봄끝 (가사 / Lyrics)",
+     "published_at": "2026-10-11T01:02:04Z",
+     "duration_sec": 184,
+     "views": 208,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "hm48wFUTBUM",
+     "title": "존오버 - Inked (가사 / Lyrics)",
+     "published_at": "2026-10-10T09:02:15Z",
+     "duration_sec": 143,
+     "views": 83,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "DJ1Hu0h7fa0",
+     "title": "James An 제임스안 - Oh Shit (가사 / Lyrics)",
+     "published_at": "2026-10-10T01:02:11Z",
+     "duration_sec": 38,
+     "views": 1040,
+     "likes": 8,
+     "comments": 0
+    },
+    {
+     "id": "niT2xWG2JnM",
+     "title": "굿나잇스탠드 - 우리의 밤 (가사 / Lyrics)",
+     "published_at": "2026-10-09T09:02:20Z",
+     "duration_sec": 28,
+     "views": 80,
+     "likes": 0,
+     "comments": 0
+    }
+   ]
+  },
+  "UCd7Rc0Wqr_751qIPjgaO-OA": {
+   "name": "popcodemusic",
+   "genre": "음악 바이럴 쇼츠",
+   "verified": true,
+   "title": "popcode",
+   "handle": "@popcodemusic",
+   "subscribers": 931,
+   "hidden_subscribers": false,
+   "views": 616,
+   "video_count": 31,
+   "videos": [
+    {
+     "id": "HkmVBFXxM1Q",
+     "title": "하우스 힙합 이해도 높다 자라 매장 BGM 같은",
+     "published_at": "2026-10-20T10:03:16Z",
+     "duration_sec": 50,
+     "views": 12,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "f6biBR_5EHk",
+     "title": "코드쿤스트가 붙었다 디모렉스 알아둬라",
+     "published_at": "2026-10-19T10:02:24Z",
+     "duration_sec": 50,
+     "views": 65,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "jEY4qIyghrg",
+     "title": "커버인 줄 잊고 듣네 자기 노래처럼 부른다",
+     "published_at": "2026-10-18T10:02:22Z",
+     "duration_sec": 60,
+     "views": 6,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "Fz9cPDugz58",
+     "title": "파테코 x 키드와인 친구한테 보내는 곡",
+     "published_at": "2026-10-17T10:02:24Z",
+     "duration_sec": 36,
+     "views": 14,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "Zy3fe_e806U",
+     "title": "단편 영화 보는 기분 혁오가 또 해냈다",
+     "published_at": "2026-10-16T10:02:18Z",
+     "duration_sec": 35,
+     "views": 7,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "NfV7KhYbv5I",
+     "title": "미리보기로 들었는데 정식으로 또 듣고 싶다",
+     "published_at": "2026-10-15T10:02:32Z",
+     "duration_sec": 33,
+     "views": 10,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "I53Ao4SyYHM",
+     "title": "빌리와 비비 사이 어딘가 앨리스유 목소리",
+     "published_at": "2026-10-13T10:03:07Z",
+     "duration_sec": 35,
+     "views": 17,
+     "likes": 2,
+     "comments": 1
+    },
+    {
+     "id": "h9A-DbAmClI",
+     "title": "후렴 들어가는 순간 여기 좋다",
+     "published_at": "2026-10-12T10:02:23Z",
+     "duration_sec": 59,
+     "views": 7,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "jADMnvVGbxk",
+     "title": "나만 알던 가수였는데 이젠 같이 듣고 싶다",
+     "published_at": "2026-10-11T10:02:09Z",
+     "duration_sec": 34,
+     "views": 3,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "bMuuTX6zxhs",
+     "title": "소녀시대-효리수 - Skibidi",
+     "published_at": "2026-10-10T10:02:16Z",
+     "duration_sec": 27,
+     "views": 16,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "Tssii_G4dy0",
+     "title": "제니 솔로 신곡 뮤비가 아니라 영화다",
+     "published_at": "2026-10-09T10:02:42Z",
+     "duration_sec": 44,
+     "views": 28,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "CSngq8ESS_k",
+     "title": "소연 (SOYEON) - 퇴사할게여",
+     "published_at": "2026-10-08T10:07:05Z",
+     "duration_sec": 54,
+     "views": 39,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "oWwi_4siKZU",
+     "title": "장르가 송소희다 도시 구경 나온 정령",
+     "published_at": "2026-10-07T10:02:30Z",
+     "duration_sec": 38,
+     "views": 13,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "Wu_vTwfKI24",
+     "title": "비타민 광고 같은 뮤비 프로미스나인 신곡",
+     "published_at": "2026-10-06T10:02:36Z",
+     "duration_sec": 47,
+     "views": 12,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "r5EIg_5q2Yg",
+     "title": "빅뱅 컴백해서 좋으면 지디 미감 안 죽었다",
+     "published_at": "2026-10-05T10:02:17Z",
+     "duration_sec": 33,
+     "views": 3,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "GdpJuhTA8X0",
+     "title": "아이우에오 - 신발끈",
+     "published_at": "2026-10-04T10:02:13Z",
+     "duration_sec": 55,
+     "views": 15,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "e1L8ypPsvKY",
+     "title": "하이어 감성 그대로 외힙 명곡 분위기",
+     "published_at": "2026-10-03T10:03:16Z",
+     "duration_sec": 31,
+     "views": 61,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "89ygaioVv_Q",
+     "title": "원위 이번 컴백곡 음중 보고 찾아왔다는",
+     "published_at": "2026-10-02T10:02:46Z",
+     "duration_sec": 45,
+     "views": 25,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "KyxiKE8JInA",
+     "title": "기괴한데 계속 본다 바밍타이거가 또 해냈다",
+     "published_at": "2026-10-01T10:03:02Z",
+     "duration_sec": 34,
+     "views": 9,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "jpVjKwPMEjA",
+     "title": "MTV에 나왔더라면 반응 왔겠다는 댓글",
+     "published_at": "2026-09-30T10:03:53Z",
+     "duration_sec": 48,
+     "views": 5,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "MCzj14cPVRA",
+     "title": "대기업 데뷔는 다르다 영상 때깔이 미쳤다",
+     "published_at": "2026-09-29T10:04:19Z",
+     "duration_sec": 35,
+     "views": 3,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "kBRJCmJIz7A",
+     "title": "남규리 - 우리 사랑 그런 거 해요 Part 2",
+     "published_at": "2026-09-28T10:04:33Z",
+     "duration_sec": 35,
+     "views": 127,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "ejt1hiGOln4",
+     "title": "퇴사 못 한 우리 위로곡 기안84 내레이션까지",
+     "published_at": "2026-09-27T10:02:28Z",
+     "duration_sec": 54,
+     "views": 6,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "YA07ovx4U9o",
+     "title": "10년 전 5600만 찍은 그 시절 라인업 그대로",
+     "published_at": "2026-09-26T10:02:49Z",
+     "duration_sec": 30,
+     "views": 19,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "mVtXpa1KKA8",
+     "title": "가사 맛집이라더니 평생 밴드 해줬으면",
+     "published_at": "2026-09-25T10:04:10Z",
+     "duration_sec": 45,
+     "views": 7,
+     "likes": 0,
+     "comments": 0
+    }
+   ]
+  },
+  "UCa7etpNexFxpr7aKsxTdvEw": {
+   "name": "nowsongplay",
+   "genre": "아티스트 토크 쇼츠",
+   "verified": true,
+   "title": "나송플 nowsongplay🎵",
+   "handle": "@nowsongplay",
+   "subscribers": 96,
+   "hidden_subscribers": false,
+   "views": 307796,
+   "video_count": 38,
+   "videos": [
+    {
+     "id": "UJH_MKZsOf8",
+     "title": "핀터레스트 켠 줄 뮤비 미감에 멈췄다",
+     "published_at": "2026-10-03T10:02:46Z",
+     "duration_sec": 34,
+     "views": 141,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "XjI5VWOj9Gs",
+     "title": "이런 목소리 요즘 없다 아이보리라는 가수",
+     "published_at": "2026-10-02T10:02:33Z",
+     "duration_sec": 47,
+     "views": 1180,
+     "likes": 5,
+     "comments": 0
+    },
+    {
+     "id": "73trbKyEVb4",
+     "title": "연기만 잘하는 게 아니다 도경수가 잘하는 걸 했다",
+     "published_at": "2026-10-01T10:03:51Z",
+     "duration_sec": 43,
+     "views": 1478,
+     "likes": 65,
+     "comments": 3
+    },
+    {
+     "id": "MEyQcHBu0G4",
+     "title": "고음에 먼저 놀랐는데 허스키한 저음도 좋다",
+     "published_at": "2026-09-30T10:04:10Z",
+     "duration_sec": 35,
+     "views": 1802,
+     "likes": 22,
+     "comments": 2
+    },
+    {
+     "id": "JzRFx3KXiAc",
+     "title": "바밍타이거 신곡 영재발굴단 보내야 한다",
+     "published_at": "2026-09-29T10:03:53Z",
+     "duration_sec": 41,
+     "views": 1462,
+     "likes": 13,
+     "comments": 0
+    },
+    {
+     "id": "87l5DfP3PhI",
+     "title": "듣다가 친구 생각나면 이 곡 때문이다",
+     "published_at": "2026-09-28T10:04:11Z",
+     "duration_sec": 36,
+     "views": 1167,
+     "likes": 4,
+     "comments": 0
+    },
+    {
+     "id": "B6mOWb8NJTU",
+     "title": "정국이 스토리에 올린 노이라는 가수",
+     "published_at": "2026-09-27T10:02:45Z",
+     "duration_sec": 57,
+     "views": 1327,
+     "likes": 7,
+     "comments": 0
+    },
+    {
+     "id": "C0ARFOqei-g",
+     "title": "소연 (SOYEON) - 퇴사할게여",
+     "published_at": "2026-09-26T10:02:48Z",
+     "duration_sec": 54,
+     "views": 13562,
+     "likes": 147,
+     "comments": 3
+    },
+    {
+     "id": "KJbAoLWYtVE",
+     "title": "외국 알앤비 같다는 더 알려졌으면 하는 곡",
+     "published_at": "2026-09-25T10:03:30Z",
+     "duration_sec": 55,
+     "views": 1295,
+     "likes": 13,
+     "comments": 0
+    },
+    {
+     "id": "8RBj5Poszy4",
+     "title": "아이우에오 - 신발끈",
+     "published_at": "2026-09-24T10:02:45Z",
+     "duration_sec": 55,
+     "views": 179,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "mTqUTL671t8",
+     "title": "가사에 다 있다 그리움이라는 말",
+     "published_at": "2026-09-23T10:03:34Z",
+     "duration_sec": 26,
+     "views": 1222,
+     "likes": 4,
+     "comments": 0
+    },
+    {
+     "id": "z7oz8nB7r34",
+     "title": "Ginger 뜻 몰랐는데 번역이 웃기다",
+     "published_at": "2026-09-23T07:31:18Z",
+     "duration_sec": 31,
+     "views": 1338,
+     "likes": 5,
+     "comments": 0
+    },
+    {
+     "id": "83zv1Ye52NQ",
+     "title": "GENER8ION - STORM",
+     "published_at": "2026-09-22T10:03:42Z",
+     "duration_sec": 49,
+     "views": 68332,
+     "likes": 822,
+     "comments": 15
+    },
+    {
+     "id": "zjlCLfCpOEU",
+     "title": "소녀시대 효리수 - Skibidi",
+     "published_at": "2026-09-21T10:02:22Z",
+     "duration_sec": 28,
+     "views": 1836,
+     "likes": 5,
+     "comments": 0
+    },
+    {
+     "id": "Xg7goFljCD8",
+     "title": "보드게임 뱅 마려운 아이브 신곡",
+     "published_at": "2026-02-23T11:20:02Z",
+     "duration_sec": 27,
+     "views": 12257,
+     "likes": 182,
+     "comments": 2
+    },
+    {
+     "id": "x8_979kcxjk",
+     "title": "연습인데도 미친 실력 보여주는 엔믹스 신곡 ㅠㅠ",
+     "published_at": "2025-12-01T09:27:22Z",
+     "duration_sec": 60,
+     "views": 179030,
+     "likes": 1781,
+     "comments": 51
+    },
+    {
+     "id": "D6-HJP-T9wc",
+     "title": "미친 신곡 들고온 RYUL",
+     "published_at": "2025-11-26T11:41:44Z",
+     "duration_sec": 38,
+     "views": 682,
+     "likes": 4,
+     "comments": 0
+    },
+    {
+     "id": "qBSN6MoTOsQ",
+     "title": "청순함의 악마와 계약한 보컬 실력자",
+     "published_at": "2025-11-24T10:41:24Z",
+     "duration_sec": 33,
+     "views": 271,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "PUCmMPVpYJc",
+     "title": "눈믈 참자... 제발!!!",
+     "published_at": "2025-07-20T10:00:40Z",
+     "duration_sec": 42,
+     "views": 99,
+     "likes": 2,
+     "comments": 0
+    },
+    {
+     "id": "SZ2c6Rih-Ic",
+     "title": "시작의아이 레전드",
+     "published_at": "2025-07-19T09:00:48Z",
+     "duration_sec": 30,
+     "views": 132,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "75JIFEU1WnU",
+     "title": "정말 모르시나요?",
+     "published_at": "2025-07-18T07:00:06Z",
+     "duration_sec": 32,
+     "views": 21,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "4hIRT9s8Oh8",
+     "title": "테디 또 열일하네 ㄷㄷ",
+     "published_at": "2025-07-17T12:59:20Z",
+     "duration_sec": 49,
+     "views": 26,
+     "likes": 0,
+     "comments": 0
+    },
+    {
+     "id": "acK6H0Oc62M",
+     "title": "고냥이 챌린지에 이어 고양이 노래로 돌아온 아일릿",
+     "published_at": "2025-06-26T08:30:00Z",
+     "duration_sec": 27,
+     "views": 1006,
+     "likes": 12,
+     "comments": 0
+    },
+    {
+     "id": "Q456SbSXYm8",
+     "title": "양홍원 오랜만에 라이브떳다",
+     "published_at": "2025-06-25T11:00:41Z",
+     "duration_sec": 40,
+     "views": 52,
+     "likes": 1,
+     "comments": 0
+    },
+    {
+     "id": "PTZCvv7xCl4",
+     "title": "핸즈업 극락파트 ㄷㄷ",
+     "published_at": "2025-06-24T10:30:15Z",
+     "duration_sec": 36,
+     "views": 76,
+     "likes": 0,
+     "comments": 0
+    }
+   ]
+  }
+ }
+}
